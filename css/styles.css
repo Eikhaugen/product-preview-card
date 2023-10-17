@@ -12,7 +12,6 @@ body{
 
 .product-card{
     width: 343px;
-    height: 611px;
     border-radius: 10px;
     background-color: white;
 }
@@ -137,6 +136,10 @@ body{
 
     .cta-button{
         width: 236px;
+    }
+
+    .cta-button:hover{
+        background-color: #1A4032;
     }
 }
 
